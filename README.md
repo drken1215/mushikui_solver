@@ -4,11 +4,11 @@
 
 　
 
-<img src=https://github.com/drken1215/mushikui_solver/blob/main/mushikui_example.png width=500mm>
+<img src=https://github.com/drken1215/mushikui_solver/blob/main/mushikui_example.png width=350mm>
 
 (虫食算の問題例)
 
-<img src=https://github.com/drken1215/mushikui_solver/blob/main/mushikui_answer.png width=500mm>
+<img src=https://github.com/drken1215/mushikui_solver/blob/main/mushikui_answer.png width=350mm>
 
 (虫食算の問題例の解答)
 
@@ -18,7 +18,7 @@
 
 ## 使用言語
 
-- Sudoku.cpp を C++11 上でコンパイルして実行します。
+- mushikui.cpp を C++11 上でコンパイルして実行します。
 - Wandbox 上の gcc 10.1.0 で動作します。
 
 　
@@ -97,8 +97,7 @@ F*U*
 
 - 技術評論社：**Software Design** 2021年2月号 
   - https://gihyo.jp/magazine/SD/archive/2021/202102
-  - 【連載】パズルで鍛えるアルゴリズム力
-    【7】虫食算と覆面算の融合！
+  - 【連載】パズルで鍛えるアルゴリズム 第 7 回 虫食算と覆面算の融合！
     ……けんちょん（大槻 兼資）
 
 　
