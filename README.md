@@ -4,11 +4,11 @@
 
 　
 
-<img src=https://github.com/drken1215/mushikui_solver/blob/master/mushikui_example.png width=500mm>
+<img src=https://github.com/drken1215/mushikui_solver/mushikui_example.png width=500mm>
 
 (虫食算の問題例)
 
-<img src=https://github.com/drken1215/mushikui_solver/blob/master/mushikui_snswer.png width=500mm>
+<img src=https://github.com/drken1215/mushikui_solver/mushikui_snswer.png width=500mm>
 
 (虫食算の問題例の解答)
 
@@ -21,11 +21,13 @@
 - Sudoku.cpp を C++11 上でコンパイルして実行します。
 - Wandbox 上の gcc 10.1.0 で動作します。
 
-
+　
 
 ## 入力
 
-虫食算の入力はリスト 1 のような形式で、標準入力で受け取るものとします。リスト 1 は、下図の虫食算を表しています。1 行めには、掛けられる数の桁数 ($a$ とします) と、掛ける数の桁数 ($b$ とします) を記入します。続く 2 行は、掛けられる数の情報と、 掛ける数の情報を表します。さらに続く $b$ 行は、筆算の過程を表します。そして最後の行は、筆算の結果を表します。また、虫食算の ⬜︎ に対応するところは文字 `*` で表しています。
+虫食算の入力はリスト 1 のような形式で、標準入力で受け取るものとします。リスト 1 は、上図の虫食算を表しています。
+
+1 行めには、掛けられる数の桁数 と、掛ける数の桁数を記入します。続く 2 行は、掛けられる数の情報と、 掛ける数の情報を表します。その後、筆算の過程を表します。そして最後の行は、筆算の結果を表します。また、虫食算の ⬜︎ に対応するところは文字 `*` で表しています。
 
 　
 
@@ -77,7 +79,7 @@ F*U*
 
 
 
-<img src=https://github.com/drken1215/mushikui_solver/blob/master/mushikui_super_large.png width=750mm>
+<img src=https://github.com/drken1215/mushikui_solver/mushikui_super_large.png width=750mm>
 
 (超巨大虫食算)
 
