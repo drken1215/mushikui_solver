@@ -4,11 +4,11 @@
 
 　
 
-<img src=https://github.com/drken1215/mushikui_solver/mushikui_example.png width=500mm>
+<img src=https://github.com/drken1215/mushikui_solver/blob/main/mushikui_example.png width=500mm>
 
 (虫食算の問題例)
 
-<img src=https://github.com/drken1215/mushikui_solver/mushikui_snswer.png width=500mm>
+<img src=https://github.com/drken1215/mushikui_solver/blob/main/mushikui_answer.png width=500mm>
 
 (虫食算の問題例の解答)
 
@@ -79,7 +79,7 @@ F*U*
 
 
 
-<img src=https://github.com/drken1215/mushikui_solver/mushikui_super_large.png width=750mm>
+<img src=https://github.com/drken1215/mushikui_solver/blob/main/mushikui_super_large.png width=750mm>
 
 (超巨大虫食算)
 
